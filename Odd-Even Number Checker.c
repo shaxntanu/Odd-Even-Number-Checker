@@ -10,8 +10,9 @@ if (number % 2 == 0) {
 } else {
     printf("%d is odd.", number);
 }
-printf("\nThankyou for using the Odd/Even Number Checker");
+printf("\nThankyou for using the Odd/Even Number Checker\nMade by Shantanu");
     return 0;
 
 }
+
 
